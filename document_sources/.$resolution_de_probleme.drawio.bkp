@@ -1,0 +1,172 @@
+<mxfile host="Electron" modified="2024-03-10T14:14:14.774Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.6.5 Chrome/114.0.5735.243 Electron/25.3.1 Safari/537.36" etag="HcwbP5WqQrUlEEtMp1ne" version="21.6.5" type="device">
+  <diagram name="Page-1" id="sm9UC2D95Xz3AclsR37y">
+    <mxGraphModel dx="1434" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="444" y="297" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-28" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.042;entryY=0.227;entryDx=0;entryDy=0;curved=1;entryPerimeter=0;endArrow=classic;endFill=1;strokeWidth=2;startSize=7;" parent="1" source="NKkf0DxXOLrTYv5vM8v2-2" target="NKkf0DxXOLrTYv5vM8v2-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="237" />
+              <mxPoint x="550" y="247" />
+              <mxPoint x="580" y="287" />
+              <mxPoint x="600" y="297" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-2" value="Problème à résoudre" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;arcSize=50;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="403" y="207" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-3" value="Terminé" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;arcSize=50;strokeWidth=2;fillColor=#cdeb8b;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="650" y="207" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-4" value="Identifier les besoins" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;arcSize=50;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="610" y="287" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-5" value="Faire des recherches" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;arcSize=50;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="660" y="369" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-6" value="Développer&lt;br&gt;des solutions possibles" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;arcSize=50;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="650" y="467" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-7" value="Sélection de la solution la plus prometteuse" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;arcSize=50;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="523" y="539.5" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-8" value="Fabriquer un prototype" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;arcSize=50;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="404" y="467" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-9" value="Test et analyse de la solution" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;arcSize=50;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="390" y="369" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-43" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.957;exitY=0.219;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;exitPerimeter=0;endArrow=classic;endFill=1;strokeWidth=2;startSize=7;" parent="1" source="NKkf0DxXOLrTYv5vM8v2-10" target="NKkf0DxXOLrTYv5vM8v2-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="297" />
+              <mxPoint x="630" y="237" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-10" value="Corriger ou améliorer le design" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;arcSize=50;strokeWidth=2;fillColor=#cce5ff;strokeColor=#36393d;" parent="1" vertex="1">
+          <mxGeometry x="440" y="287" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-12" value="&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;Se renseigner sur le sujet.&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;Est-ce qu&#39;il y a des solutions déjà existantes?&lt;/span&gt;&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;Qu&#39;est-ce qui a été fait par le passé?&lt;/span&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="369" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-13" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;Remue méninges (Brainstrom).*&lt;/span&gt;&lt;/div&gt;On rester le plus ouvert possible aux nouvelles idées.&lt;br style=&quot;font-size: 14px;&quot;&gt;Faire une preuve de concept au besoin (réaliser et tester rapidement un prototype simple)" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="460" width="340" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-14" value="Établir quel solution réponds le mieu au besoins." style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="800" y="559.5" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-25" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="800" y="398" as="sourcePoint" />
+            <mxPoint x="850" y="398" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.916;exitY=0.223;exitDx=0;exitDy=0;entryX=0.387;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;endArrow=classic;endFill=1;strokeWidth=2;startSize=7;" parent="1" source="NKkf0DxXOLrTYv5vM8v2-1" target="NKkf0DxXOLrTYv5vM8v2-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-35" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.999;exitY=0.566;exitDx=0;exitDy=0;entryX=0.991;entryY=0.608;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722.72" y="455.48" as="sourcePoint" />
+            <mxPoint x="720.48" y="467.24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.999;exitY=0.566;exitDx=0;exitDy=0;entryX=0.588;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;endArrow=classic;endFill=1;strokeWidth=2;startSize=7;" parent="1" target="NKkf0DxXOLrTYv5vM8v2-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722.72" y="455.48" as="sourcePoint" />
+            <mxPoint x="720.48" y="467.24" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-37" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.743;exitY=0.937;exitDx=0;exitDy=0;entryX=0.994;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;endArrow=classic;endFill=1;strokeWidth=2;startSize=7;" parent="1" source="NKkf0DxXOLrTYv5vM8v2-1" target="NKkf0DxXOLrTYv5vM8v2-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="646.72" y="555.48" as="sourcePoint" />
+            <mxPoint x="645" y="567" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.506;exitDx=0;exitDy=0;entryX=0.451;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;endArrow=classic;endFill=1;strokeWidth=2;startSize=7;" parent="1" source="NKkf0DxXOLrTYv5vM8v2-1" target="NKkf0DxXOLrTYv5vM8v2-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444.72" y="435.48" as="sourcePoint" />
+            <mxPoint x="443" y="447" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.097;exitY=0.204;exitDx=0;exitDy=0;entryX=0.307;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;endArrow=classic;endFill=1;strokeWidth=2;startSize=7;" parent="1" source="NKkf0DxXOLrTYv5vM8v2-1" target="NKkf0DxXOLrTYv5vM8v2-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="474.72" y="345.48" as="sourcePoint" />
+            <mxPoint x="473" y="357" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.141;exitY=0.848;exitDx=0;exitDy=0;entryX=0.603;entryY=0.998;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;endArrow=classic;endFill=1;strokeWidth=2;startSize=7;" parent="1" target="NKkf0DxXOLrTYv5vM8v2-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="483.48" y="534.4399999999999" as="sourcePoint" />
+            <mxPoint x="476.84000000000003" y="526.82" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-44" value="Qu&#39;est-ce que l&#39;on cherche à accomplir?&lt;br style=&quot;font-size: 14px;&quot;&gt;Donner une priorité aux besoins.&lt;br style=&quot;font-size: 14px;&quot;&gt;Certains besoins sont abstraits&lt;br style=&quot;font-size: 14px;&quot;&gt;(Ex.: Simple à fabriquer, Robuste)" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="870" y="276" width="260" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-45" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="318" as="sourcePoint" />
+            <mxPoint x="860" y="318" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-48" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="497" as="sourcePoint" />
+            <mxPoint x="810" y="497" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-49" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="582" as="sourcePoint" />
+            <mxPoint x="760" y="582" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-50" value="Fabriquer la solution sélectionnée" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="477" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-51" value="Tester la solution sélectionnée" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="378" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-52" value="Établir ce qui pourrait être améliorer dans une nouvelle version" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="297.5" width="250" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-53" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="318" as="sourcePoint" />
+            <mxPoint x="420" y="318" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-54" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="397.58" as="sourcePoint" />
+            <mxPoint x="380" y="397.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-55" value="" style="endArrow=none;html=1;rounded=0;dashed=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="496.58000000000004" as="sourcePoint" />
+            <mxPoint x="390" y="496.58000000000004" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NKkf0DxXOLrTYv5vM8v2-60" value="Cycle de résolution de problèmes" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;arcSize=23;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="322.5" y="10" width="525" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu4dIHCpMLTm2XgMCrl1-1" value="Chaque problématique devrait être adressée selon la méthodologie de résolution de problème. Il est important de bien séparer les différents éléments à résoudre et il est possible par la suite de réaliser un cycle individuel pour chaque problématique. Il est parfois préférable se rendre rapidement au prototype afin de démontrer si une solution est viable où non.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="60" width="1060" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu4dIHCpMLTm2XgMCrl1-2" value="Il n&#39;est pas obligatoire que le problème soit complexe pour réaliser un cycle de résolution de problème.&lt;br&gt;Il est également possible de retirer, déplacer, ajouter des étapes selon le problème en mains. &lt;br&gt;Ce type d&#39;analyse peut être réalisé pour toute sorte de situations, de nature professionnelle à personnel. Essayez-le!" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;dashed=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="120" width="1060" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dcXpd5YRgYz1dyyrGpAW-1" value="* De nombreux outils existent pour réaliser efficacement du remue méninges:&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Commencer individuellement, puis en groupe réduit, puis tous le monde ensemble pour augmenter la diversité des solutions&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Chercher des solution employées par le passé, soit par nous où par d&#39;autre personnes (recherches en ligne)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Réaliser des croquis simple des idées&lt;/span&gt;&lt;/li&gt;&lt;li&gt;Élaborer sur les idées des autres&lt;/li&gt;&lt;li&gt;Faire l&#39;avocat du diable (élaborer pour améliorer une idée qui semble mauvaise)&lt;/li&gt;&lt;li&gt;Poser des questions sur une solution pour la faire élaborer&lt;/li&gt;&lt;li&gt;Impiquer le plus de gens possible&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;b style=&quot;border-color: var(--border-color);&quot;&gt;Le plus important est de ne juger aucune solution. On essai de penser à tout, on recherche initiallement la quantité avant la qualitée.&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;dashed=1;dashPattern=12 12;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="636" width="1060" height="184" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
