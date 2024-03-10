@@ -4,6 +4,8 @@
 ## Faire du recrutement
 - Présenter dans l'école un ou des projets sur lesquels on a travaillé (Ex.: Robot FIRST)
 - Réaliser une compétition prenant place dans un lieu public (Ex.: Mini défis au carrefour)
+- Monter une banque de photo et video pour présenter aux gens c'est quoi la robotique
+- Mettre le site web à jours
 
 ## Financement
 - Recherche commanditaire
